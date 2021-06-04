@@ -1,20 +1,32 @@
 [
    {
-      "name": "Space 01",
-      "author": "Subham Saha",
-      "url": "url here",
-      "thumbnail": "url here",
-      "collections": "Space",
-      "dimensions": "3000 x 6000 px",
+      "name": "Mountain 3",
+      "author": "Yudha",
+      "url": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mountain%203.png",
+      "thumbnail": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mountain%203.jpg",
+      "collections": "Illustrations",
+      "dimensions": "1440 x 3200 px",
+      "copyright": "Personal Use, Credits Required",
+      "downloadable": true
+    },
+   {
+      "name": "Mountain 2",
+      "author": "Yudha",
+      "url": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mountain%202.png",
+      "thumbnail": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mountain%202.jpg",
+      "collections": "Illustrations",
+      "dimensions": "1440 x 3200 px",
+      "copyright": "Personal Use, Credits Required",
       "downloadable": true
     },
 {
-      "name": "Space 02",
-      "author": "Subham Saha",
-      "url": "url here",
-      "thumbnail": "url here",
-      "collections": "Space",
-      "dimensions": "3000 x 6000 px",
+      "name": "Mountain 1",
+      "author": "Yudha",
+      "url": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mountain%201.png",
+      "thumbnail": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mountain%201.jpg",
+      "collections": "Illustrations",
+      "dimensions": "1440 x 3200 px",
+      "copyright": "Personal Use, Credits Required",
       "downloadable": true
     }
 ]
