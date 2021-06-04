@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Space 01",
+      "author": "Subham Saha",
+      "url": "url here",
+      "thumbnail": "url here",
+      "collections": "Space",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    },
+{
+      "name": "Space 02",
+      "author": "Subham Saha",
+      "url": "url here",
+      "thumbnail": "url here",
+      "collections": "Space",
+      "dimensions": "3000 x 6000 px",
+      "downloadable": true
+    }
+]
