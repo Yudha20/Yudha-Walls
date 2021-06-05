@@ -1,5 +1,25 @@
 [
-       {
+    {
+      "name": "Architecture 1",
+      "author": "Yudha",
+      "url": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Architecture%201.png",
+      "thumbnail": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Architecture%201.png",
+      "collections": "architecture, illustrations",
+      "dimensions": "1440 x 3200 px",
+      "copyright": "Personal Use, Credits Required",
+      "downloadable": true
+    },
+    {
+      "name": "Amoled Orb",
+      "author": "Yudha",
+      "url": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled%20Orb.png",
+      "thumbnail": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Amoled%20Orb.jpg",
+      "collections": "amoled",
+      "dimensions": "1440 x 3200 px",
+      "copyright": "Personal Use, Credits Required",
+      "downloadable": true
+    },
+    {
       "name": "Translucent 3",
       "author": "Yudha",
       "url": "https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Translucent%203.png",
