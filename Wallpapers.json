@@ -1,5 +1,5 @@
 [
-         {
+   {
       "name":"Liquid 2",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Liquid%202.jpg",
@@ -9,17 +9,17 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-     {
+   {
       "name":"Liquid 1",
       "author":"Yudha",
-      "url":"https://github.com/Yudha20/Yudha-Walls/blob/main/Walls/Liquid%201.jpg",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Liquid%212.jpg",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Liquid%201.jpg",
       "collections":"liquid",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-    {
+   {
       "name":"Building 4",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Building%204.png",
@@ -29,7 +29,7 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-    {
+   {
       "name":"Building 3",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Building%203.png",
@@ -39,7 +39,7 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-    {
+   {
       "name":"Building 2",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Building%202.png",
@@ -49,7 +49,7 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-    {
+   {
       "name":"Building 1",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Building%201.png",
@@ -69,7 +69,7 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-    {
+   {
       "name":"Amoled 6",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled%203.png",
@@ -79,7 +79,7 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-    {
+   {
       "name":"Amoled 5",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled%202.png",
