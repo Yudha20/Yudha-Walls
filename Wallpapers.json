@@ -1,5 +1,35 @@
 [
    {
+      "name":"Amoled 7",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Amoled.png",
+      "collections":"amoled",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+    {
+      "name":"Amoled 6",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled%203.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Amoled%203.png",
+      "collections":"amoled",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+    {
+      "name":"Amoled 5",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled%202.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Amoled%202.png",
+      "collections":"amoled",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
       "name":"Architecture 1",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Architecture%201.png",
