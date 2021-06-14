@@ -1,4 +1,24 @@
 [
+        {
+      "name":"Mesh Gradient 6",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mesh%206a.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mesh%206a.png",
+      "collections":"gradient",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+     {
+      "name":"Mesh Gradient 5",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mesh%205a.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mesh%205a.png",
+      "collections":"gradient",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
      {
       "name":"Liquid 7",
       "author":"Yudha",
