@@ -1,5 +1,5 @@
 [
-    {
+   {
       "name":"Abstract Bottom 2",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_49.png",
@@ -9,7 +9,7 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-      {
+   {
       "name":"Abstract Bottom 1",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_48.jpg",
@@ -274,7 +274,7 @@
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Translucent%203.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Translucent%203.png",
-      "collections":"minimal",
+      "collections":"abstract",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
@@ -284,17 +284,7 @@
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Translucent%204.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Translucent%204.png",
-      "collections":"minimal",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
-      "name":"Translucent 3",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Translucent%203.png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Translucent%203.png",
-      "collections":"minimal",
+      "collections":"abstract",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
@@ -304,7 +294,7 @@
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Translucent%202.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Translucent%202.png",
-      "collections":"minimal",
+      "collections":"abstract",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
@@ -314,7 +304,7 @@
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Translucent%201.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Translucent%201.png",
-      "collections":"minimal",
+      "collections":"abstract",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
