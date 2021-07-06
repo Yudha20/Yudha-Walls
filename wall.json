@@ -50,7 +50,7 @@
       "downloadable":true
    },
    {
-      "name":"Iris 5",
+      "name":"Iris 6",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_49.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_49.jpg",
@@ -60,7 +60,7 @@
       "downloadable":true
    },
    {
-      "name":"Iris 4",
+      "name":"Iris 5",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_48.jpg",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_48.jpg",
@@ -210,11 +210,11 @@
       "downloadable":true
    },
    {
-      "name":"Amoled 7",
+      "name":"Iris 4",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Amoled.png",
-      "collections":"amoled",
+      "collections":"Iris",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
