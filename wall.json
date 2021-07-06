@@ -1,5 +1,25 @@
 [
    {
+      "name":"Dawn 8",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_52.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_52.jpg",
+      "collections":"Dawn",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
+      "name":"Dawn 7",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_51.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_51.jpg",
+      "collections":"Dawn",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
       "name":"Dawn 6",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_50.png",
