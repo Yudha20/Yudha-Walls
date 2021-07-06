@@ -1,4 +1,15 @@
 [
+     {
+      "name":"Abstract Bottom 2",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_50.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_50.jpg",
+      "collections":"abstract",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
    {
       "name":"Abstract Bottom 2",
       "author":"Yudha",
@@ -160,16 +171,6 @@
       "downloadable":true
    },
    {
-      "name":"Dawn 4",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Building%201.png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Building%201.png",
-      "collections":"Dawn",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
       "name":"Amoled 7",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Amoled.png",
@@ -245,16 +246,6 @@
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mesh%201.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mesh%201.png",
       "collections":"Relos",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
-      "name":"Dawn 3",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mountain%203.png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mountain%203.jpg",
-      "collections":"Dawn",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
