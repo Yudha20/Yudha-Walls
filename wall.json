@@ -89,7 +89,6 @@
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
    },
-  
    {
       "name":"Cyrene 4",
       "author":"Yudha",
@@ -246,46 +245,6 @@
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Mesh%201.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Mesh%201.png",
       "collections":"Relos",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
-      "name":"Amoled 4",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Asset%208%20(2).png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Asset%208%20(2).png",
-      "collections":"amoled",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
-      "name":"Amoled 3",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Asset%205.png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Asset%205.png",
-      "collections":"amoled",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
-      "name":"Amoled 2",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Asset%2021%20(2).png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Asset%2021%20(2).png",
-      "collections":"amoled",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
-      "name":"Amoled 1",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/Asset%201%20(2).png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/Asset%201%20(2).png",
-      "collections":"amoled",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
