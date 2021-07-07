@@ -70,6 +70,26 @@
       "downloadable":true
    },
    {
+      "name":"Cyrene 12",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_72.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_72.jpg",
+      "collections":"Cyrene",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
+      "name":"Cyrene 11",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_71.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_71.jpg",
+      "collections":"Cyrene",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
       "name":"Cyrene 10",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_63.jpg",
