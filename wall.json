@@ -20,16 +20,6 @@
       "downloadable":true
    },
    {
-      "name":"Dawn 17",
-      "author":"Yudha",
-      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_83.png",
-      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_83.jpg",
-      "collections":"Dawn",
-      "dimensions":"1440 x 3200 px",
-      "copyright":"Personal Use, Credits Required",
-      "downloadable":true
-   },
-   {
       "name":"Relos 18",
       "author":"Yudha",
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_87.png",
@@ -45,6 +35,16 @@
       "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_86.png",
       "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_86.png",
       "collections":"Relos",
+      "dimensions":"1440 x 3200 px",
+      "copyright":"Personal Use, Credits Required",
+      "downloadable":true
+   },
+   {
+      "name":"Dawn 17",
+      "author":"Yudha",
+      "url":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Walls/wall_83.png",
+      "thumbnail":"https://raw.githubusercontent.com/Yudha20/Yudha-Walls/main/Thumbnail/wall_83.jpg",
+      "collections":"Dawn",
       "dimensions":"1440 x 3200 px",
       "copyright":"Personal Use, Credits Required",
       "downloadable":true
